@@ -1,0 +1,125 @@
+Q1.With which sport would you link the Wimbledon?
+1.Cricket
+2.Football
+3.Hockey
+4.Lawn Tennis
+Q2.The symbol of Olympic Games has
+1.8 rings
+2.6 rings
+3.5 rings
+4.4 rings
+Q3.Who holds the world record for the highest number of ceturies in One Day Cricket?
+1.Steve Waugh
+2.Sachin Tendulkar
+3.Sanath Jayasuriya
+4.Sunil Gavaskar
+Q4.What is a table tennis ball made up of
+1.Rubber
+2.Cork
+3.Plastic
+4.Celluloid
+Q5.The term 'Googly' is associated with
+1.Polo
+2.Cricket
+3.Hockey
+4.Football
+Q6.Which is the national sport of India?
+1.Cricket
+2.Hockey
+3.Badminton
+4.Chess
+Q7.Which one of the following is not a term of the indoor game-Chess?
+1.Checkmate
+2.Knight
+3.Castling
+4.Deuce
+Q8.Which cricketer is also known as 'Tiger'?
+1.Sunil Gavaskar
+2.Kapil Dev
+3.M.A.K. Pataudi
+4.Sachin Tendulkar
+Q9.How many players play 'Kabaddi'?
+1.12
+2.13
+3.11
+4.15
+Q10.Rugby is the national game of which country?
+1.Scotland
+2.Switzerland
+3.Mauritius
+4.India
+Q11.Who wrote 'Gulliver's Travels'
+1.Rudyard Kipling
+2.Alexandre Dumas
+3.Jonathan Swift
+4.R.L. Stevenson
+Q12.Who has authored the 'Jungle Book'
+1.Rudyard Kipling
+2.R.L. Stevenson
+3.Charles Dickens
+4.Lewis Carroll
+Q13.What is the name of Tintin's dog?
+1.Snoopy
+2.Snowy
+3.Dollar
+4.Scooby-doo
+Q14.The famous villian 'Voldermort' appears in which of these books?
+1.The Hound of Baskervilles
+2.Harry Potter and the Philosopher's Stone
+3.The Great Monster of Yeti
+4.Hunchback of Notre Dame
+Q15.Who is the author of 'Discovery of India'?
+1.Motilal Nehru
+2.Lal Bahadur Shastri
+3.Indira Gandhi
+4.Jawaharlal Nehru
+Q16.Who is the author of the Harry Potter series?
+1.J.K. Rowling
+2.Ruskin Bond
+3.Enid Blyton
+4.Lewis Carroll
+Q17.Which is the longest epic in the world literature?
+1.The Mahabharata
+2.The Ramayana
+3.The Panchatantra
+4.The Bible
+Q18.Which is the oldest literature in the world?
+1.The Vedas
+2.Tha Ramayana
+3.The Bible
+4.The Quran
+Q19.Who is the narrator of Arthur Conan Doyle's Sherlock Holmes stories?
+1.Sherlock
+2.Dr. Charles
+3.Dr. Watson
+4.Dr. Holmes
+Q20.Name the famoous British playwright who wrote 'Hamlet'.
+1.William Shakespeare
+2.P.B. Shelley.
+3.Lord Tennyson
+4.W.B. Yeats
+Q21.Name the american film cartoonist who created Mickey Mouse and Donald Duck.
+1.Warner Brothers
+2.Walt Disney
+3.Steven Spielberg
+4.Hanna Barbara
+Q22.Who was the first Indian to win an Oscar award?
+1.Satyajit Ray
+2.Raj Kapoor
+3.Dada Saheb Phalke
+4.Bhanu Athaiya
+Q23.Name the famous Indian actor who acted in the film 'Lagaan'.
+1.Shahrukh Khan
+2.Fardeen Khan
+3.Salman Khan
+4.Aamir Khan
+Q24.Who was the first Indian woman to go in to space?
+1.Sunita Williams
+2.Kalpana Chawla
+3.Bachendri Pal
+4.Kunjururani Devi
+Q25.Who is the Melody Queen of India?
+1.Asha Bhonsle
+2.Anuradha Paudwal
+3.Shreya Ghoshal
+ 4.Lata Mangeshkar
